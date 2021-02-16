@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="notification_recording">Recording in progress</string>
+    <string name="default_file_name">file_record</string>
+    <string name="toast_recording_finish">Recording is finish</string>
+
+</resources>
